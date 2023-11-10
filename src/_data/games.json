@@ -1,0 +1,450 @@
+[
+  {
+    "_id": "642eaeb63d774e3fb3a7bea1",
+    "commonGameName": "Counter-Strike 2",
+    "gameDescription": "Mногопользовательская компьютерная игра, разработанная компаниями Valve и Hidden Path Entertainment. Выпуск игры для персональных компьютеров на операционных системах Windows и macOS, также игровых приставках Xbox 360 и PlayStation 3 состоялся 21 августа 2012 года",
+    "gameImage": "https://staticg.sportskeeda.com/editor/2023/09/dbd4c-16957559662727-1920.jpg",
+    "genre": "SHOOTERS",
+    "inTop": false
+  },
+  {
+    "_id": "65154bae59c15dd8d5497a64",
+    "commonGameName": "Rust",
+    "gameDescription": "Rust — комп'ютерна гра в жанрі симулятора виживання була створена незалежною британською студією Facepunch[2], очолюваною з 2014 року Гаррі Ньюменом. Гра вийшла на платформах Windows та MacOS. З грудня 2013 гра була в ранньому доступі. Випуск гри відбувся 8 лютого 2018 року.",
+    "gameImage": "https://cdn.akamai.steamstatic.com/steam/apps/252490/capsule_616x353.jpg?t=1693652810",
+    "genre": "SURVIVAL",
+    "inTop": false
+  },
+  {
+    "_id": "65154bf859c15dd8d5497a6c",
+    "commonGameName": "Cyberpunk 2077",
+    "gameDescription": "Cyberpunk 2077 – комп'ютерна гра від авторів серії The Witcher, створена за мотивами настільної рольової гри Cyberpunk 2020 Майка Пондсміта. Гравця відправляють у 2077 рік, де створений ним персонаж має вижити у футуристичному місті Найт-Сіті, Каліфорнія.",
+    "gameImage": "https://image.api.playstation.com/vulcan/ap/rnd/202111/3013/cKZ4tKNFj9C00giTzYtH8PF1.png",
+    "genre": "SHOOTERS",
+    "inTop": false
+  },
+  {
+    "_id": "65154c3c59c15dd8d5497a77",
+    "commonGameName": "Grand Theft Auto V",
+    "gameDescription": "Grand Theft Auto V - це не лише до абсурду приємна відеогра, а й розумна та дотепна сатира на сучасну Америку. Вона є удосконаленням всього того, що принесла GTA IV. Вона технічно досконаліша у всіх мислимих відносинах, але при цьому по-своєму амбітна. Жоден інший світ у відеоіграх не наближається до цього за розміром чи масштабом, а за почуттям гумору та даром до хаосу ховається гострий розум. Вона розповідає переконливу, непередбачувану та провокаційну історію, ніколи не дозволяючи їй стати на шляху ваших самостійних пригод по Сан-Андреасу. Це одна з найкращих відеоігор, коли-небудь створених.",
+    "gameImage": "https://hyperpc.ru/images/support/articles/pc-for-gta-5/article-gta-5-banner.jpg",
+    "genre": "ONLINE",
+    "inTop": false
+  },
+  {
+    "_id": "65154cf659c15dd8d5497a91",
+    "commonGameName": "World of Warships",
+    "gameDescription": "World of Warships (з англ. «Світ військових кораблів»; з 16 серпня 2011 року по 2 серпня 2012 року World of Battleships) — комп'ютерна, клієнтська масова розрахована на багато користувачів онлайн-гра в реальному часі в жанрі аркадного симулятора морських битв на кораблях в тому числі Arpeggio of Blue Steel, High School Fleet та інших, анонсована 16 серпня 2011 видавцем і розробником онлайн-ігор кіпрською компанією Wargaming.net, і вийшла в реліз 17 вересня 2015 року.\nСпочатку гра вийшла для Microsoft Windows, з 2016 доступний запуск на MacOS через Mac Wrapper від компанії CodeWeavers.",
+    "gameImage": "https://wows-web-static.wgcdn.co/wowsp/cd8cb11e/images/wows_social_1.jpg",
+    "genre": "ONLINE",
+    "inTop": false
+  },
+  {
+    "_id": "65154db359c15dd8d5497aa9",
+    "commonGameName": "Wargaming",
+    "gameDescription": "Wargaming.net Game Center — платформа дистрибуції (додаток для запуску ігор), в якому зібрані всі ваші ігри Wargaming, а також в ньому можна читати новини про майбутні функції та особливості, дивитися відео та знаходити приголомшливі знижки!",
+    "gameImage": "https://wargaming.com/media/uploads/social_sharing/logo_wg_400-400.jpg",
+    "genre": "LAUNCHERS",
+    "inTop": true
+  },
+  {
+    "_id": "65154e2a59c15dd8d5497ab5",
+    "commonGameName": "Days gone",
+    "gameDescription": "Days Gone — екшен від третьої особи, дія якої відбувається у відкритому постапокаліптичному світі. Гравці візьмуть на себе роль Дікон Сейнт-Джон, байкера, який у новому світі веде мандрівний спосіб життя. Йому належить боротися за життя, борючись як з фрикерами, так і з тими, хто вижив.",
+    "gameImage": "https://i0.wp.com/gideonsgaming.com/wp-content/uploads/2019/12/Days-gone-title.jpg?resize=930%2C620&ssl=1",
+    "genre": "SURVIVAL",
+    "inTop": false
+  },
+  {
+    "_id": "65154e7959c15dd8d5497ac1",
+    "commonGameName": "Albion Online",
+    "gameDescription": "Albion Online — кросплатформова масова розрахована на багато користувачів рольова онлайн-гра в середньовічній стилістиці, розроблена і випущена Sandbox Interactive.",
+    "gameImage": "https://itwire.com/media/k2/items/cache/fd3d2ad5a9b8dbf958f69987c6647456_XL.jpg",
+    "genre": "MMORPG",
+    "inTop": false
+  },
+  {
+    "_id": "651554ef59c15dd8d5497bba",
+    "commonGameName": "7 days to die",
+    "gameDescription": "7 Days to Die - це гра з відкритим ігровим світом, дії якої відбуваються в жорстокому і невблаганному пост-апокаліптичному світі, наповненому зомбі, яка включає незвичайне поєднання шутера від першої особи, жахів виживання, захисту фортець і рольових ігор.",
+    "gameImage": "https://cdn.akamai.steamstatic.com/steam/apps/251570/capsule_616x353.jpg?t=1692918569",
+    "genre": "SURVIVAL",
+    "inTop": false
+  },
+  {
+    "_id": "6515552f59c15dd8d5497bc3",
+    "commonGameName": "PUBG",
+    "gameDescription": "PlayerUnknown’s Battlegrounds(скор. PUBG, також відома як PUBG: Battlegrounds) — розрахована на багато користувачів онлайн-гра в жанрі королівської битви, що розробляється і видається студією PUBG Corporation, дочірньою компанією корейського видавця Bluehole. Офіційною дистрибуцією гри біля Росії займається Mail.Ru Group[3][4]. Гра заснована на попередніх модифікаціях для інших ігор, створених Бренданом Гріном (англ. Brendan Greene) під псевдонімом PlayerUnknown, концепція яких була натхненна японським фільмом Королівська битва 2000 року. У результаті це призвело до створення самостійної гри, де Грін виступив як провідний геймдизайнер. У грі до 100 гравців, які десантуються на острів, після чого шукають спорядження та зброю, щоб убити інших учасників і при цьому залишитися в живих. Доступна безпечна зона на внутрішньоігровій карті з часом починає зменшуватися, роблячи доступний простір тіснішим, щоб зіштовхувати між собою гравців. Останній гравець, що вижив, або команда перемагає в раунді.\n\nPlayerUnknown's Battlegrounds була випущена в Steam за програмою раннього доступу 23 березня 2017 для операційної системи Windows[5]. Протягом перших семи місяців після виходу було продано більше 13 млн копій гри, а пікова кількість гравців досягла більше 2 мільйонів осіб до кінця року, що зробило її однією з найпопулярніших ігор Steam [6]. 31 жовтня продаж PUBG перевищив 18 млн копій. Повну версію гри було випущено 21 грудня 2017 року. Вихід для Xbox One під видавництвом Microsoft Studios відбувся 12 грудня за програмою раннього доступу[7], але вже 4 вересня 2018 року відбувся офіційний реліз. 19 березня 2018 року була випущена мобільна версія PUBG Mobile для Android та iOS за моделлю free-to-play. Версія для PlayStation 4 була анонсована в листопаді 2018 року і випущена 7 грудня 2018 року.",
+    "gameImage": "https://wstatic-prod.pubg.com/web/live/static/og/img-og-pubg.jpg",
+    "genre": "SHOOTERS",
+    "inTop": false
+  },
+  {
+    "_id": "651555ae59c15dd8d5497bd0",
+    "commonGameName": "Eurotruck simulator",
+    "gameDescription": "Euro Truck Simulator - гра у жанрі симулятора далекобійника з елементами економічної стратегії. Розробляється та видається чеською компанією SCS Software. Офіційний реліз відбувся 18 жовтня 2012 року, у Steam гра вийшла у січні 2013 року. Є продовженням Euro Truck Simulator, який побачив світ у 2008 році.",
+    "gameImage": "https://futurenow.com.ua/wp-content/uploads/2020/12/euro-truck-simulator-2-systemni-vymogy.jpg",
+    "genre": "RACING",
+    "inTop": false
+  },
+  {
+    "_id": "651555f859c15dd8d5497bd7",
+    "commonGameName": "DayZ",
+    "gameDescription": "DayZ — розрахована на багато користувачів комп'ютерна гра в жанрі survival horror з відкритим світом, що розробляється компанією Bohemia Interactive. Гра є ремейком однойменної модифікації до Arma 2, створеної геймдизайнером Діном Холлом. Рання альфа-версія гри для Windows була випущена наприкінці 2013 року у мережі цифрової дистрибуції Steam. Реліз гри на платформі Windows відбувся 13 грудня 2018[1][2]. Версія для PlayStation 4 вийшла 29 травня 2019 року.\n\nДія гри відбувається у вигаданій пострадянській державі Чорнорусія, жителі якої в результаті якогось катаклізму перетворилися на агресивні зомбі. Керований гравцем персонаж повинен вижити у ворожому оточенні, уникаючи ворогів і видобуваючи в покинутих будинках зброю, їжу та інші припаси. Одночасно з ним на тій же карті діють інші гравці; кожен гравець має право вбивати персонажів інших гравців, уникати їх або поєднуватися з ними в групи для спільного виживання.\n\nРозробка гри розпочалася у 2012 році, коли автор модифікації Дін Холл приєднався до компанії Bohemia Interactive. Незважаючи на статус ранньої альфа-версії та відсутність у грі багатьох запланованих можливостей, на травень 2014 року було продано понад 2 мільйони копій гри, що принесло розробникам близько 100 мільйонів доларів США[3].",
+    "gameImage": "https://media.wired.co.uk/photos/606db1c849ea96e5dec2c6ca/master/w_1600%2Cc_limit/DayZ_2.jpg",
+    "genre": "SURVIVAL",
+    "inTop": false
+  },
+  {
+    "_id": "6515564c59c15dd8d5497be1",
+    "commonGameName": "DOTA 2",
+    "gameDescription": "Dota 2 — комп'ютерна розрахована на багато користувачів командна гра в жанрі multiplayer online battle arena, розроблена корпорацією Valve. Гра є продовженням DotA — картки-модифікації для гри Warcraft III: Reign of Chaos і доповнення до неї Warcraft III: The Frozen Throne. Гра зображує бій на карті особливого виду; у кожному матчі беруть участь дві команди по п'ять гравців, які управляють «героями» — персонажами з різними наборами здібностей. Для перемоги в матчі команда має знищити особливий об'єкт-«фортеця», що належить ворожій стороні, та захистити від знищення власну «фортецю». Dota 2 працює за моделлю free-to-play з елементами мікроплатежів.\n\nРозробка гри розпочалася у 2009 році, коли компанія Valve прийняла на роботу основного розробника DotA – IceFrog, а влітку 2010 року подала заявку на реєстрацію цієї торгової марки. 13 жовтня 2010 року на ігровому порталі Game Informer гра була анонсована до виходу в 2011 [6]. 15 серпня 2011 року в офіційному блозі було опубліковано трейлер до гри. Dota 2 вийшла у липні 2013 року після того, як два роки перебувала у стадії бета-тестування.\n\nСпочатку Dota 2 була випущена на ігровому движку Source, після чого в 2015 році була портована на Source 2, ставши першою грою, що працює на ньому. У Dota 2 передбачена можливість створювати режими гри, оформлення карти і косметичні предмети для героїв, після чого додати їх в Dota 2 за допомогою Steam Workshop. Dota 2 є однією з найбільш популярних ігор у Steam і отримала загалом позитивні відгуки критиків за ігровий процес, якість виробництва та збереження позитивних сторін своєї попередниці. Серед основних недоліків гри було відзначено складність навчання.\n\nDota 2 є активною кіберспортивною дисципліною, в якій професійні команди з усього світу змагаються у різних лігах та турнірах. Преміум-турніри з Dota 2 мають призові фонди в мільйони доларів, які не раз ставали найбільшими в історії кіберспорту. Найбільший турнір з гри - The International, що щорічно проводиться Valve. Починаючи з сезону 2017/18 Valve також організовує Dota Pro Circuit – професійний сезон, що проводиться протягом року. Великі професійні турніри з Dota 2 транслюються на відеострімінгових сервісах, іноді набираючи понад мільйон глядачів одночасно. Людей, які грають у Dota 2, часто називають «дотерами».",
+    "gameImage": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota2_social.jpg",
+    "genre": "MOBA",
+    "inTop": false
+  },
+  {
+    "_id": "651556b559c15dd8d5497bed",
+    "commonGameName": "Fortnite",
+    "gameDescription": "Fortnite — королівська битва і кооперативна пісочниця на виживання, основними механіками якої є дослідження, збирання ресурсів, будівництво укріплених будівель і боротьба з хвилями зомбі.",
+    "gameImage": "https://m.media-amazon.com/images/I/91TnX-q6c7L.png",
+    "genre": "SHOOTERS",
+    "inTop": false
+  },
+  {
+    "_id": "6515570a59c15dd8d5497bf7",
+    "commonGameName": "Forza Horizon 5",
+    "gameDescription": "Forza Horizon 5 — комп'ютерна гра у жанрі аркадного гоночного симулятора. Як розробник виступає компанія Playground Games, а як видавець — Xbox Game Studios. Гра була анонсована у червні 2021 року на заході E3 2021. Вихід гри відбувся 9 листопада 2021 року.",
+    "gameImage": "https://cdn.akamai.steamstatic.com/steam/apps/1551360/capsule_616x353.jpg?t=1694801571",
+    "genre": "RACING",
+    "inTop": false
+  },
+  {
+    "_id": "651557f159c15dd8d5497c10",
+    "commonGameName": "EVE Online",
+    "gameDescription": "EVE Online (вимовляється як Ів Онлайн) — масова розрахована на багато користувачів онлайн-гра з науково-фантастичним сюжетом, дія якої розгортається в космосі. Гра розроблена ісландською компанією CCP Games. З травня по грудень 2003 видавалася Simon & Schuster Interactive [2] (згодом CCP Games викупила права на поширення). У вересні 2018 року було оголошено про придбання її корейською компанією Pearl Abyss[3].",
+    "gameImage": "https://i.ytimg.com/vi/vAbY68o_8ew/maxresdefault.jpg",
+    "genre": "MMORPG",
+    "inTop": false
+  },
+  {
+    "_id": "6515588b59c15dd8d5497c25",
+    "commonGameName": "Path of Exile",
+    "gameDescription": "Гравець управляє одним персонажем з видом зверху-збоку, що імітує ізометричну проекцію. У ході гри гравець обстежує різні рівні - як відкриті простори, так і лабіринтоподібні підземелля, які населені різноманітними ворогами. Знищення ворогів та виконання завдань неігрових персонажів приносить гравцеві окуляри досвіду та різні предмети спорядження, які можуть підвищити характеристики персонажа. За винятком кількох мирних поселень, де гравець може взаємодіяти з неігровими персонажами, всі рівні гри генеруються процедурним чином, і цей процес повторюється, якщо гравець знову відвідує рівень після деякої відсутності - таким чином, при кожному відвідуванні карта рівня, розташування на ній виходів та ворогів створюється випадковим чином.\n\nНа початку гри гравець може вибрати для персонажа один із шести класів з різними характеристиками - Дикун, Мисливець, Відьма, Дуелянт, Жрець і Бандит; ще один прихований клас («Дворянка») стає доступним гравцям, які знайшли відповідного неігрового персонажа наприкінці третього акту гри. Пасивні вміння, що належать власне персонажу, гравець може вибрати на дереві вмінь - загальної для всіх класів і дуже великій структурі, що нагадує схоже дерево вмінь у Final Fantasy X. і навіть деякими іншими шляхами[3]. Path of Exile надає гравцеві велику свободу у розвитку персонажа, дозволяючи творчо поєднувати різні вміння, і початкові класи не диктують якогось жорстко заданого стилю гри – так, гравець може розпочати гру класом «Відьма», але пізніше вкладати очки умінь у характеристику «сила» » і перетворити персонаж на бійця ближнього бою, що орудує важким бойовим молотом [3], або, наприклад, відкрити вміння, що дозволяє використовувати для заклинань окуляри життя замість окулярів магії - такий вибір сам по собі недозволений для «чистих» Відьом з їхнім невеликим запасом окулярів життя і вимагає відкриття на дереві умінь, що збільшують кількість очок життя [4].\n\nНа відміну від більшості ігор цього жанру, у Path of Exile активні навички не є властивостями самого персонажа - вони представлені у вигляді самоцвітів, які можна купити, отримати чи знайти у грі. Ці самоцвіти можуть бути вставлені в будь-яку зброю чи броню, і лише тоді гравець може використати цю навичку. Кожен із використовуваних каменів розвивається разом із персонажем. Як тільки камінь отримує достатню кількість досвіду, гравцеві пропонується підвищити рівень каменю вручну, оскільки наступні рівні каменів збільшують вимоги (наприклад, кількість очок магії, що використовуються, характеристики або рівень гравця). Скасувати вибір можна за допомогою окулярів каяття, які, як і окуляри умінь, можна отримати за виконання деяких завдань. Також пасивні вміння скидаються при виході оновлень, які торкаються дерева.\n\nPath of Exile не містить \"золота\" - внутрішньоігрових грошей, які гравець міг би отримувати і витрачати всередині гри; при торгівлі з неігровими персонажами та між гравцями роль грошей виконують різні предмети, які також використовуються в грі в інших цілях - наприклад, сувої ідентифікації; ці предмети гравець може отримати, продаючи торговцям зібрані на рівнях трофеї. Будь-який обмін предметами між гравцями здійснюється безпосередньо, хоча торговий майданчик, відкритий розробниками у 2017 році, так і сторонні сайти можуть допомагати гравцям у такому обміні[5].",
+    "gameImage": "https://www.dexerto.com/cdn-cgi/image/width=3840,quality=75,format=auto/https://editors.dexerto.com/wp-content/uploads/2022/04/22/path-of-exile-builds.jpg",
+    "genre": "MMORPG",
+    "inTop": false
+  },
+  {
+    "_id": "651558d859c15dd8d5497c31",
+    "commonGameName": "Battle.net",
+    "gameDescription": "Беріть участь у карткових дуелях з легендами всесвіту Warcraft, б'йтесь на міжгалактичному полі бою або командуйте арміями серед зірок. З додатком Battle.net ви можете завантажувати Hearthstone, StarCraft, Heroes of the Storm та інші ігри Blizzard грати у них безкоштовно протягом необмеженого часу.",
+    "gameImage": "https://bnetcmsus-a.akamaihd.net/cms/page_media/1l/1LBON0FWR9J01623119560966.png",
+    "genre": "LAUNCHERS",
+    "inTop": true
+  },
+  {
+    "_id": "6515594a59c15dd8d5497c3c",
+    "commonGameName": "War Thunder",
+    "gameDescription": "",
+    "gameImage": "https://warthunder.com/i/opengraph-wtland.jpg",
+    "genre": "ONLINE",
+    "inTop": false
+  },
+  {
+    "_id": "65155c5b59c15dd8d5497c69",
+    "commonGameName": "Steam",
+    "gameDescription": "Steam - це онлайн-платформа від розробника ігор Valve, де ви можете купувати, грати, створювати та обговорювати ігри для ПК. На платформі розміщені тисячі ігор (а також завантажуваний контент, або DLC, і функції користувача, звані \"модами\") від великих розробників та інди-дизайнерів.",
+    "gameImage": "https://clan.akamai.steamstatic.com/images/41316928/f7f5587c77587cc8ae5eb50e39defcbcc3acaa88.jpg",
+    "genre": "LAUNCHERS",
+    "inTop": true
+  },
+  {
+    "_id": "65155cac59c15dd8d5497c70",
+    "commonGameName": "Genshin impact",
+    "gameDescription": "Genshin Impact — це барвиста анімешна Action RPG з відкритим світом від китайської компанії HoYoverse. Гра вийшла на платформі PC, а також мобільних пристроях під керуванням операційних систем Android та iOS. Дія в ній розгортається у світі Тейвата, де всі сповідують релігію «Сімеро». Увійшовши в гру, користувачі можуть насолодитися: опрацьованим лором, мангою, що підкріплюється, і анімаційними роликами, приємною оку графікою, глибокими персонажами, декількома класичними класами і hack'n'slash бойовою системою.",
+    "gameImage": "https://i.ytimg.com/vi/wpBQvUKWzwc/maxresdefault.jpg",
+    "genre": "MMORPG",
+    "inTop": false
+  },
+  {
+    "_id": "65155d38b676067d292e4238",
+    "commonGameName": "World Of Tanks",
+    "gameDescription": "World of Tanks (з англ. — «Світ танків»; скор. WoT) це командна масова розрахована на багато користувачів онлайн-гра, присвячена броньованим машинам середини XX століття. У розпорядженні гравців понад 40 бойових карток, створених на основі реальних локацій часів Другої світової війни, та історично достовірна техніка 11 націй загальною чисельністю понад 600 одиниць.\n\n",
+    "gameImage": "https://worldoftanks.eu/static/5.128.0_f80900/wotp_static/img/download_game/frontend/scss/img/sharing.jpg",
+    "genre": "ONLINE",
+    "inTop": false
+  },
+  {
+    "_id": "65155e04b676067d292e4275",
+    "commonGameName": "Epic Games",
+    "gameDescription": "Epic Games Launcher - це оболонка для запуску ігор, розроблених або виданих компанією Epic Games. Подібні додатки створюються багатьма не найбільшими видавцями і створені швидше для іміджу, ніж для особливо важливого функціонального призначення. Серед проектів, які запускатимуться за допомогою цієї програми, значаться: Paragon, Fortnite, Unreal Tournament, ARK та Shadow Complex. Завантажити будь-яку з них можна безпосередньо із \"лаунчера\". Також програма служить для завантаження оновлень та керування статусом облікового запису. Обліковий запис, до речі, теж можна створити безпосередньо при першому запуску програми.\n",
+    "gameImage": "https://cdn2.unrealengine.com/Epic+Games+Node%2FepicLogo_1920x1080-1920x1080-401b77ef30fa9e5aaadbdd99ad2ff27ceda27a6f.png",
+    "genre": "LAUNCHERS",
+    "inTop": true
+  },
+  {
+    "_id": "65155e66b676067d292e4283",
+    "commonGameName": "Team fortess 2",
+    "gameDescription": "Team Fortress 2 - це гротескний \"шпигунський\" бойовик, виконаний у стилі 50-х років минулого століття. Гравці, розділені на дві команди - Червону та Синю, воюють один з одним, виступаючи за кілька різних бойових класів, кожен з яких озброєний унікальною зброєю.",
+    "gameImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/440/capsule_616x353.jpg?t=1695767057",
+    "genre": "SHOOTERS",
+    "inTop": false
+  },
+  {
+    "_id": "651561b1b676067d292e42c7",
+    "commonGameName": "NARAKA: BLADEPOINT",
+    "gameDescription": "",
+    "gameImage": "https://www.onono.no/wp-content/uploads/2021/06/NARAKA-BLADEPOINT-scaled.jpg",
+    "genre": "MMORPG",
+    "inTop": false
+  },
+  {
+    "_id": "651562ffb676067d292e42eb",
+    "commonGameName": "Call of Duty: Warzone 2.0",
+    "gameDescription": "Call of Duty: Warzone — мультиплатформна free-to-play комп'ютерна гра в жанрі розрахованого на багато шутера від першої особи і королівської битви.\n\nWarzone підтримує два базові режими гри - \"королівська битва\" і \"видобуток\". Warzone стала третьою грою, після режимів «Blackout» у Call of Duty: Black Ops 4 (2018) та «Королівська битва» у Call of Duty: Mobile, із серії Call of Duty, де підтримується режим королівської битви. Warzone відрізняється від Black Ops 4 заохоченням накопичення ігрової валюти замість пошуку обладнання для зброї, розкиданої по карті. Warzone використовує бої, в яких бере участь до 150 гравців, на відміну від інших подібних ігор, які підтримують лише до ста людей в одному бою.",
+    "gameImage": "https://www.callofduty.com/content/dam/atvi/callofduty/cod-touchui/blog/hero/mw-wz/WZ2-S01-DMZ-TACTICS-TOUT.jpg",
+    "genre": "SHOOTERS",
+    "inTop": false
+  },
+  {
+    "_id": "6515657eb676067d292e434b",
+    "commonGameName": "Eternal Return",
+    "gameDescription": "",
+    "gameImage": "https://cdn.akamai.steamstatic.com/steam/apps/1049590/header.jpg?t=1695706973",
+    "genre": "MMORPG",
+    "inTop": false
+  },
+  {
+    "_id": "65156650b676067d292e4386",
+    "commonGameName": "Summoners War: Chronicles",
+    "gameDescription": "",
+    "gameImage": "https://cdn.akamai.steamstatic.com/steam/apps/2167580/header.jpg?t=1694057989",
+    "genre": "MMORPG",
+    "inTop": false
+  },
+  {
+    "_id": "651567bab676067d292e43d4",
+    "commonGameName": "The Sims™ 4",
+    "gameDescription": "",
+    "gameImage": "https://image.api.playstation.com/vulcan/img/rnd/202111/3019/Btg9YJMDRcWgsbD5E6rOcdT5.jpg",
+    "genre": "STRATEGY",
+    "inTop": false
+  },
+  {
+    "_id": "65156872b676067d292e4410",
+    "commonGameName": "Destiny 2",
+    "gameDescription": "",
+    "gameImage": "https://cdn.akamai.steamstatic.com/steam/apps/1085660/capsule_616x353.jpg?t=1694626285",
+    "genre": "SHOOTERS",
+    "inTop": false
+  },
+  {
+    "_id": "651568eeb676067d292e4422",
+    "commonGameName": "SMITE®",
+    "gameDescription": "",
+    "gameImage": "https://i.ytimg.com/vi/xAPsmI_zDZs/maxresdefault.jpg",
+    "genre": "MOBA",
+    "inTop": false
+  },
+  {
+    "_id": "651569ccb676067d292e4433",
+    "commonGameName": "SYNCED",
+    "gameDescription": "",
+    "gameImage": "https://www.syncedthegame.com/share.jpg",
+    "genre": "SHOOTERS",
+    "inTop": false
+  },
+  {
+    "_id": "65156a36b676067d292e443d",
+    "commonGameName": "Magic: The Gathering Arena",
+    "gameDescription": "",
+    "gameImage": "https://images.ctfassets.net/s5n2t79q9icq/cAQJBdFMcKDZY4BhUUsDx/616212775582792942f3927c843aea80/arena_Meta-ShareImage.jpg",
+    "genre": "STRATEGY",
+    "inTop": false
+  },
+  {
+    "_id": "65157030b676067d292e448a",
+    "commonGameName": "War Robots",
+    "gameDescription": "",
+    "gameImage": "https://venturebeat.com/wp-content/uploads/2023/04/WR-art-with-logo-HD.jpg?fit=1920%2C1080&strip=all",
+    "genre": "SHOOTERS",
+    "inTop": false
+  },
+  {
+    "_id": "651570a9b676067d292e4495",
+    "commonGameName": "Overwatch® 2",
+    "gameDescription": "",
+    "gameImage": "https://s4844.pcdn.co/wp-content/uploads/formidable/4/Overwatch-2-1.jpg",
+    "genre": "SHOOTERS",
+    "inTop": false
+  },
+  {
+    "_id": "651571a7b676067d292e44ae",
+    "commonGameName": "Conqueror's Blade",
+    "gameDescription": "",
+    "gameImage": "https://static.prod-my.games/chronos-public-eu-cb-prod/site/news%2F2023%2F5%2F2545%2F1200x587.jpg",
+    "genre": "STRATEGY",
+    "inTop": false
+  },
+  {
+    "_id": "651572a9b676067d292e44bd",
+    "commonGameName": "Brawlhalla",
+    "gameDescription": "",
+    "gameImage": "https://image.api.playstation.com/vulcan/ap/rnd/202305/1523/5aaaa377b9a4803f932a1aa4f4b18d8b12ca7c29490dfb14.jpg",
+    "genre": "FIGHTING",
+    "inTop": false
+  },
+  {
+    "_id": "6515739cb676067d292e44eb",
+    "commonGameName": "Warhaven",
+    "gameDescription": "",
+    "gameImage": "https://assets-prd.ignimgs.com/2023/06/01/warhaven-main-keyart-1685657828866.png?width=1280",
+    "genre": "FIGHTING",
+    "inTop": false
+  },
+  {
+    "_id": "651573dcb676067d292e44f4",
+    "commonGameName": "UNDECEMBER",
+    "gameDescription": "",
+    "gameImage": "https://img.youtube.com/vi/6QDsPcDe5h4/maxresdefault.jpg",
+    "genre": "MMORPG",
+    "inTop": false
+  },
+  {
+    "_id": "651574afb676067d292e4502",
+    "commonGameName": "Soul Dossier",
+    "gameDescription": "",
+    "gameImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/1520470/ss_f664ed3fc6a65fbc6b9ca5c12fa9a8d4fa5f5871.1920x1080.jpg?t=1694686849",
+    "genre": "SURVIVAL",
+    "inTop": false
+  },
+  {
+    "_id": "65157537b676067d292e4510",
+    "commonGameName": "Stumble Guys",
+    "gameDescription": "",
+    "gameImage": "https://i.ytimg.com/vi/utb6ET0uhV0/maxresdefault.jpg",
+    "genre": "FIGHTING",
+    "inTop": false
+  },
+  {
+    "_id": "65157606b676067d292e451d",
+    "commonGameName": "Shop Titans",
+    "gameDescription": "",
+    "gameImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/1258080/ss_06bf65631de065f2f6f1504f44a19d761424e2c6.1920x1080.jpg?t=1679068370",
+    "genre": "STRATEGY",
+    "inTop": false
+  },
+  {
+    "_id": "6515768db676067d292e4528",
+    "commonGameName": "Fishing Planet",
+    "gameDescription": "",
+    "gameImage": "https://spottis.com/img/public/fishing-planet-controls.jpg",
+    "genre": "STRATEGY",
+    "inTop": false
+  },
+  {
+    "_id": "651578fcb676067d292e454d",
+    "commonGameName": "Age of Empires III: Definitive Edition",
+    "gameDescription": "",
+    "gameImage": "https://cdn.akamai.steamstatic.com/steam/apps/2477660/capsule_616x353.jpg?t=1691100434",
+    "genre": "STRATEGY",
+    "inTop": false
+  },
+  {
+    "_id": "65157993b676067d292e455b",
+    "commonGameName": "Governor of Poker 3",
+    "gameDescription": "",
+    "gameImage": "https://m.media-amazon.com/images/I/91KvNH+i8xL.png",
+    "genre": "STRATEGY",
+    "inTop": false
+  },
+  {
+    "_id": "65157a09b676067d292e4563",
+    "commonGameName": "Crossout",
+    "gameDescription": "",
+    "gameImage": "https://crossout.net/i/xo-opengraph.jpg",
+    "genre": "RACING",
+    "inTop": false
+  },
+  {
+    "_id": "65157a82b676067d292e456d",
+    "commonGameName": "Paladins®",
+    "gameDescription": "",
+    "gameImage": "https://m.media-amazon.com/images/I/81v9KGQhm6L._SX1200_._FMwebp_.jpg",
+    "genre": "MOBA",
+    "inTop": false
+  },
+  {
+    "_id": "65157b24b676067d292e4579",
+    "commonGameName": "Neverwinter",
+    "gameDescription": "",
+    "gameImage": "https://cdn.akamai.steamstatic.com/steam/apps/109600/capsule_616x353.jpg?t=1689701769",
+    "genre": "MMORPG",
+    "inTop": false
+  },
+  {
+    "_id": "65157c56b676067d292e45a3",
+    "commonGameName": "Lords Mobile",
+    "gameDescription": "",
+    "gameImage": "https://www.charlieintel.com/cdn-cgi/image/width=3840,quality=75,format=auto/https://editors.charlieintel.com/wp-content/uploads/2023/07/02/lords-mobile-redeem-codes.jpg",
+    "genre": "MOBA",
+    "inTop": false
+  },
+  {
+    "_id": "65157cf3b676067d292e45b4",
+    "commonGameName": "My Singing Monsters",
+    "gameDescription": "",
+    "gameImage": "https://cdn.akamai.steamstatic.com/steam/apps/1419170/capsule_616x353_alt_assets_23.jpg?t=1694101806",
+    "genre": "STRATEGY",
+    "inTop": false
+  },
+  {
+    "_id": "65157d97b676067d292e45cb",
+    "commonGameName": "Goose Goose Duck",
+    "gameDescription": "",
+    "gameImage": "https://cdn.akamai.steamstatic.com/steam/apps/1568590/capsule_616x353.jpg?t=1693273064",
+    "genre": "STRATEGY",
+    "inTop": false
+  },
+  {
+    "_id": "65157e0bb676067d292e45e5",
+    "commonGameName": "RISK: Global Domination",
+    "gameDescription": "Бийтеся з противниками в стратегічній війні в офіційній цифровій версії класичної настільної гри Hasbro, яку люблять мільйони. Боріться проти держав Осі під час Першої світової війни, переживайте військові ігри проти зомбі-нежиті та бийтеся на фантастичних, футуристичних і науково-фантастичних картах.",
+    "gameImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/1128810/capsule_616x353.jpg?t=1676590898",
+    "genre": "STRATEGY",
+    "inTop": false
+  },
+  {
+    "_id": "65157e9bb676067d292e4618",
+    "commonGameName": "Rogue Company",
+    "gameDescription": "",
+    "gameImage": "https://images.nintendolife.com/cffe169a54145/1280x720.jpg",
+    "genre": "SHOOTERS",
+    "inTop": false
+  },
+  {
+    "_id": "65157f9fb676067d292e466d",
+    "commonGameName": "Naval Action",
+    "gameDescription": "Відеогра створена на рушії Unity3D, що забезпечує реалістичні моделі кораблів та відкритий світ карибських морських просторів, де за багаті землі борються такі держави як Велика Британія, Франція, Іспанія, Данія, США, Голландія, Швеція і пірати. Гра знаходиться в альфа версії, але стрімко розвивається.",
+    "gameImage": "https://images.squarespace-cdn.com/content/v1/519a3512e4b00c954c606410/1408312816879-9W04WTAOMR32J46DXM7B/10403964_332376866920238_9010209338695368174_o.jpg?format=2500w",
+    "genre": "MMORPG",
+    "inTop": false
+  },
+  {
+    "_id": "651580f0b5b991eee7785235",
+    "commonGameName": "Fallout Shelter",
+    "gameDescription": "Гравці розбудовують підземне Сховище та керують ним як наглядачі. Гравці повинні стежити за устаткуванням і самими жителями сховища та постійно підтримувати їхній настрій у нормі. Максимум жителів — 200 осіб. Щоб Сховище нормально функціонувало і розвивалося, слід добувати ресурси, призначати людей на роботу у ​​відповідні приміщення, посилати їх в експедиції на поверхню. Це вимагає правильного розподілу їхніх умінь між параметрами сили, сприйняття, витривалості, харизми, інтелекту, спритності та вдачі, що відповідає системі S.P.E.C.I.A.L. основної серії ігор серії Fallout. Характеристики кожного персонажа впливають на те, наскільки він придатний для певного виду роботи. Поставлений на не відповідну для нього посаду, або хворий чи поранений, житель Сховища втрачатиме настрій, тим самими зменшуючи власну продуктивність. З часом населення зростає, але може настати перенаселення, за якого виробництво ресурсів падатиме.",
+    "gameImage": "https://cdn.akamai.steamstatic.com/steam/apps/588430/capsule_616x353.jpg?t=1694716883",
+    "genre": "SURVIVAL",
+    "inTop": false
+  },
+  {
+    "_id": "6516c2f4a8439571e469a34b",
+    "commonGameName": "EA",
+    "gameDescription": "Марка заснована в 1993 році і є однією з найуспішніших і найвідоміших марок серед спортивних ігор. Марка EA SPORTS — це автентичні спортивні симулятори та офіційні ліцензійні продукти по найпопулярніших видів спорту. Студія EA SPORTS у Ванкувері, Канада, використовує сучасні технології, як, наприклад, захоплення руху, що роблять руху спортсменів у грі максимально реалістичними. Крім того, студія співпрацює з багатьма відомими спортсменами з усього світу.",
+    "gameImage": "https://media.contentapi.ea.com/content/dam/eacom/en-au/migrated-images/2016/10/en-us-featured-image.jpg.adapt.crop16x9.1023w.jpg",
+    "genre": "LAUNCHERS",
+    "inTop": true
+  }
+]
