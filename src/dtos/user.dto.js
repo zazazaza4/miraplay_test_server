@@ -8,4 +8,4 @@ class UserDto {
   }
 }
 
-module.export = UserDto;
+module.exports = UserDto;
