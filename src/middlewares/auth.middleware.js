@@ -1,3 +1,4 @@
+const tokenService = require('../services/token.service');
 const ApiError = require('../utils/exceptions/app.error');
 
 const auth = (req, res, next) => {
