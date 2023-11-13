@@ -1,10 +1,11 @@
 const bcrypt = require('bcrypt');
+const { validationResult } = require('express-validator');
 
 const userService = require('../services/user.service');
 const ApiError = require('../utils/exceptions/app.error');
 
 class AuthController {
-  async register(req, res) {
+  async signUp(req, res, next) {
     try {
       const errors = validationResult(req);
       if (!errors.isEmpty()) {
@@ -17,7 +18,7 @@ class AuthController {
       }
 
       const { email, password } = req.body;
-      const userData = await userService.registration(email, password);
+      const userData = await userService.signUp(email, password);
 
       res.cookie('refreshToken', userData.refreshToken, {
         maxAge: 30 * 24 * 60 * 60 * 1000,
@@ -30,10 +31,20 @@ class AuthController {
     }
   }
 
-  async login(req, res) {
+  async signIn(req, res, next) {
     try {
+      const errors = validationResult(req);
+      if (!errors.isEmpty()) {
+        return next(
+          ApiError.BadRequest(
+            'Bad request. Please try again with valid parameters',
+            errors.array()
+          )
+        );
+      }
+
       const { email, password } = req.body;
-      const userData = await userService.login(email, password);
+      const userData = await userService.signIn(email, password);
 
       res.cookie('refreshToken', userData.refreshToken, {
         maxAge: 30 * 24 * 60 * 60 * 1000,
