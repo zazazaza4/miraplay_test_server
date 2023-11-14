@@ -7,15 +7,14 @@ const GameSchema = new Mongoose.Schema({
   },
   gameDescription: {
     type: String,
-    required: true,
+    required: false,
   },
   gameImage: {
     type: String,
     required: true,
   },
   genre: {
-    type: Schema.Types.ObjectId,
-    ref: 'Genre',
+    type: String,
     required: true,
   },
   inTop: {
