@@ -1,6 +1,4 @@
 const Game = require('../models/Game');
-const Genre = require('../models/Genre');
-const ApiError = require('../utils/exceptions/app.error');
 
 class GameService {
   async getList({
@@ -12,12 +10,7 @@ class GameService {
     const query = {};
 
     if (genre && genre !== 'ALL') {
-      const foundGenre = await Genre.findOne({ name: genre });
-
-      if (!foundGenre) {
-        throw ApiError.BadRequest('Genre is not found');
-      }
-      query.genre = foundGenre._id;
+      query.genre = genre;
     }
 
     const games = await Game.find(query)
