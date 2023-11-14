@@ -1,7 +1,7 @@
 const gameService = require('../services/game.service');
 
 class GameController {
-  async getList() {
+  async getList(req, res, next) {
     try {
       const result = await gameService.getList(req.body);
       res.json(result);
