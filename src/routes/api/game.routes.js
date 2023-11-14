@@ -1,5 +1,8 @@
 const router = require('express').Router();
 
-router.get('/', async (req, res) => {});
+const gameController = require('../../controllers/game.controller');
+const auth = require('../../middlewares/auth.middleware');
+
+router.get('/', auth, gameController.getList);
 
 module.exports = router;
