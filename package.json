@@ -2,9 +2,10 @@
   "name": "miraplay_test_server",
   "version": "1.0.0",
   "description": "",
-  "main": "app.js",
+  "main": "src/app.js",
   "engines": {
-    "node": "18.x"
+    "node": "14.20.0",
+    "npm": "7.24.2"
   },
   "scripts": {
     "start": "node src/app.js",
