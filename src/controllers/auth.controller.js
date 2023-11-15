@@ -11,7 +11,7 @@ class AuthController {
       if (!errors.isEmpty()) {
         return next(
           ApiError.BadRequest(
-            'Bad request. Please try again with valid parameters',
+            'Поганий запит. Будь ласка, спробуйте ще раз із дійсними параметрами',
             errors.array()
           )
         );
@@ -37,7 +37,7 @@ class AuthController {
       if (!errors.isEmpty()) {
         return next(
           ApiError.BadRequest(
-            'Bad request. Please try again with valid parameters',
+            'Поганий запит. Будь ласка, спробуйте ще раз із дійсними параметрами',
             errors.array()
           )
         );

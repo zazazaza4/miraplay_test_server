@@ -9,7 +9,10 @@ class ApiError extends Error {
   }
 
   static UnauthorizedError() {
-    return new ApiError(401, 'Your session has expired. Please login again');
+    return new ApiError(
+      401,
+      'Ваш сеанс закінчився. Будь ласка, увійдіть знову'
+    );
   }
 
   static BadRequest(message, errors = []) {

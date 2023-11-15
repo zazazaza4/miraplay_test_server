@@ -10,7 +10,7 @@ class UserService {
     const existedUser = await UserModel.findOne({ email });
 
     if (existedUser) {
-      throw ApiError.BadRequest(`User already exists`);
+      throw ApiError.BadRequest(`Користувач уже існує`);
     }
 
     const hashPassword = await bcrypt.hash(password, 3);
@@ -30,12 +30,12 @@ class UserService {
   async signIn(email, password) {
     const user = await UserModel.findOne({ email });
     if (!user) {
-      throw ApiError.BadRequest(`User does not exists`);
+      throw ApiError.BadRequest(`Користувач уже існує`);
     }
 
     const isPassEquals = await bcrypt.compare(password, user.password);
     if (!isPassEquals) {
-      throw ApiError.BadRequest('Email or password is not correct');
+      throw ApiError.BadRequest('Пароль неправильний');
     }
 
     const userDto = new UserDto(user);
