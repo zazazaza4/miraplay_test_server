@@ -4,8 +4,7 @@
   "description": "",
   "main": "./src/app.js",
   "engines": {
-    "node": "14.20.0",
-    "npm": "7.24.2"
+    "node": "18.x"
   },
   "scripts": {
     "start": "node ./src/app.js",
